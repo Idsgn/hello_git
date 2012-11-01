@@ -1,1 +1,2 @@
 Hello, Git!
+Dit is een nieuwe regel in hello.txt
